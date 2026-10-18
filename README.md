@@ -7,7 +7,11 @@
 * 定时在指定 QQ 群中 @小呱呱，查询远行商人信息（单纯不想走远行商人接口）
 * 支持多个 QQ 群
 * 群聊命令：`/ping`、`/状态`、`/帮助`（其实毫无作用）
-*
+
+<img width="521" height="438" alt="image" src="https://github.com/user-attachments/assets/cc091c2b-5380-4ba1-a94d-d1b550e50fa5" />
+<img width="560" height="247" alt="image" src="https://github.com/user-attachments/assets/60e64ff4-7a42-46d3-b2f7-58d0cc306292" />
+
+
 
 ## 技术栈
 
