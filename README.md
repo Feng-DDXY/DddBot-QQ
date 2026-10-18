@@ -33,13 +33,11 @@
 
 5. 其中，将 `config.example.json` 复制为 `config.json`，填写自己的群号（可以多个）、QQ 号及 Access Token（NapCat后台的）。
 
-6.
-
-7. 启动回复程序：
+6. 启动回复程序：
 
    `python3 reply_bot.py`
 
-8. 在测试群发送 `/ping`，检查是否收到回复。
+7. 在测试群发送 `/ping`，检查是否收到回复。
 
  当前 `reply_bot.py` 监听的 Docker 网桥 IP 为 `172.18.0.1`，不同服务器的 Docker 网桥地址可能不同，需要根据实际环境调整。
 
