@@ -1,0 +1,19 @@
+# 私密配置
+config.json
+.env
+.env.*
+
+# QQ 登录数据
+data/
+napcat/
+**/token*
+**/*session*
+
+# Python 环境和缓存
+.venv/
+__pycache__/
+*.pyc
+
+# 日志和备份
+*.log
+backups/

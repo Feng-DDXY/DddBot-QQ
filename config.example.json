@@ -1,0 +1,7 @@
+{
+  "group_ids": [123456789, 987654321],
+  "guagua_qq": 123456789,
+  "command": "远行商人",
+  "api_url": "http://127.0.0.1:3000",
+  "access_token": "REPLACE_WITH_YOUR_NAPCAT_TOKEN"
+}
