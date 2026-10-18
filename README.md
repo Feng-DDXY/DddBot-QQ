@@ -39,17 +39,17 @@
 
    `python3 reply_bot.py`
 
-6. 在测试群发送 `/ping`，检查是否收到回复。
+6. 在测试群发送 `/ping`，检查是否收到回复
 
  当前 `reply_bot.py` 监听的 Docker 网桥 IP 为 `172.18.0.1`，不同服务器的 Docker 网桥地址可能不同，需要根据实际环境调整。
 
 我自己这边的NapCat HTTP Client 的事件地址为 `http://172.18.0.1:8080/event`
 
-定时查询：通过 Linux cron 执行 `send_merchant.py`。
+定时查询：通过 Linux cron 执行 `send_merchant.py`
 
 ##
 
 ## 项目状态
 
-v0.1.0 — 纯自己测试玩的版本，如果需要的话可以联系我，我直接把机器人拉进去
+v0.1.0 — 纯自己测试玩的版本，如果只是纯试试的话可以联系我（群861044306），我直接把机器人拉进去
 
