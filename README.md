@@ -13,7 +13,7 @@
 
 
 
-## 技术栈
+## 环境
 
 * Python 3.12
 * Flask + Waitress
